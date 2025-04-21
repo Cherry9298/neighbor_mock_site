@@ -2,12 +2,8 @@
 </script>
 
 <template>
-  <header>
-    <img alt="Vue logo" class="logo" src="./assets/icon.png" width="125" height="125" />
-  </header>
-
   <main>
-    Ohayo Sekai!
+    Ohayo Sekai! Test
   </main>
 </template>
 
