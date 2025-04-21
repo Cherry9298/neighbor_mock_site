@@ -7,7 +7,7 @@ import legacy from '@vitejs/plugin-legacy'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/neighbor_mock_site/',
+  publicPath: '/neighbor_mock_site/',
   plugins: [
     vue(),
     vueDevTools(),
