@@ -1,8 +1,11 @@
 {
-  "name": "s",
-  "version": "0.0.0",
+  "name": "neighbor_mock_site",
+  "version": "1.0.0",
   "private": false,
   "type": "module",
+  "icons": {
+    "256": "favicon.ico"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
